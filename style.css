@@ -37,3 +37,19 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.my-recipies-text{
+    text-align: center;
+}
+.recipie-design{
+    width:50%;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px gray;
+}
+.recipie-design img{
+    width: 100%;
+}
