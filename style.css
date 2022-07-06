@@ -64,3 +64,8 @@ h1{
     box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
 }
+.footer-design{
+    text-align: center;
+    color:white;
+    background-color:darkgray;
+}
